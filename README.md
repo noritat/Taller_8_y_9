@@ -7,6 +7,7 @@ Templates, Forwarding, Redirection.
 Para observar como funciona iremos primero al login, crear cuatro botones para el ejemplo.
 # Login: 
 ![Login](https://github.com/noritat/Taller_8_y_9/assets/128448216/8437d58f-8b35-418e-9ee5-2f429b9d0460)
+
 Estos cuatro botones nos va dirigir al los formularios , los cuales estos tendran que abrirse y en la url mostrar un nombre, mas no mostrar desde que carpeta viene o en que archivo esta. Miremos los ejemplos 
 # Formulario Registro Usuario :
 
